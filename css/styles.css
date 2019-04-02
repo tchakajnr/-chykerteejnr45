@@ -1,0 +1,16 @@
+body{
+  background-color: #F69314;
+
+}
+h1{
+  font-style: oblique 15deg;
+  color: purple;
+}
+hr{
+  background-color:green;
+  border-style:none;
+  border-color:blue;
+  height: 2px;
+  width: auto;
+
+}
